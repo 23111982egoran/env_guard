@@ -1,0 +1,10 @@
+{
+  "name": "env-guard",
+  "version": "0.1.0",
+  "description": "Simple .env linter: duplicates, empties, invalid names, diff with .env.example",
+  "bin": {
+    "env-guard": "bin/env-guard.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}
